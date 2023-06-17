@@ -21,7 +21,7 @@ interface ViewModelOwner<Binding : ViewDataBinding, out Model> {
      *  <data>
      *      <variable
      *          name="viewModel"
-     *          value="com.daimler.mm.xyz.MyViewModel"/>
+     *          value="com.test.abc.xyz.testViewModel"/>
      *  </data>
      * ```
      */

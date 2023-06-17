@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package com.daimler.myfinance.util.livedata
+package com.baladroid.baseapp.utils.livedata
 
 import androidx.annotation.MainThread
 import androidx.annotation.Nullable

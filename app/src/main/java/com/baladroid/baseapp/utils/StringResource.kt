@@ -1,4 +1,4 @@
-package com.daimler.myfinance.util
+package com.baladroid.baseapp.utils
 
 import android.content.Context
 import androidx.annotation.PluralsRes

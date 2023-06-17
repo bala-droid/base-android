@@ -1,8 +1,8 @@
 package com.baladroid.baseapp.view.base
 
 import androidx.lifecycle.*
-import com.daimler.myfinance.util.extensions.withLoading
-import com.daimler.myfinance.util.livedata.SingleLiveEvent
+import com.baladroid.baseapp.utils.extensions.withLoading
+import com.baladroid.baseapp.utils.livedata.SingleLiveEvent
 import kotlinx.coroutines.launch
 abstract class BaseViewModel<Navigation>  : ViewModel() {
     val navigation: SingleLiveEvent<Navigation> = SingleLiveEvent()

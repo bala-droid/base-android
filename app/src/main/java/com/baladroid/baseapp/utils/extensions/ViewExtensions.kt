@@ -1,4 +1,4 @@
-package com.daimler.myfinance.util.extensions
+package com.baladroid.baseapp.utils.extensions
 
 import android.content.Context
 import android.view.View
@@ -8,7 +8,6 @@ import android.widget.TextView
 import androidx.databinding.BindingAdapter
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
-import com.daimler.myfinance.util.StringResource
 
 /*
 View

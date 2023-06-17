@@ -1,9 +1,9 @@
-package com.daimler.myfinance.util.extensions
+package com.baladroid.baseapp.utils.extensions
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MediatorLiveData
 import androidx.lifecycle.MutableLiveData
-import com.daimler.myfinance.util.livedata.SingleLiveEvent
+import com.baladroid.baseapp.utils.livedata.SingleLiveEvent
 
 inline fun <T, U, R> LiveData<T>.combine(
     arg: LiveData<U>,
