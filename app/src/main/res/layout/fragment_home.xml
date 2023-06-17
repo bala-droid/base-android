@@ -25,7 +25,7 @@
             android:layout_height="match_parent">
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/card_year_promise_verse"
+                android:id="@+id/card_test"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:cardElevation="4dp"
@@ -37,7 +37,7 @@
                 >
 
                 <LinearLayout
-                    android:id="@+id/lt_testimony"
+                    android:id="@+id/lt_test"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical"
@@ -45,7 +45,7 @@
                     >
 
                     <TextView
-                        android:id="@+id/tv_year_verse_title"
+                        android:id="@+id/tv_test"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Base App"
